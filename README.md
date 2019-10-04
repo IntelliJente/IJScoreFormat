@@ -1,0 +1,1 @@
+Formato de dinheiro na scoreboard com mvdwplaceholderapi
