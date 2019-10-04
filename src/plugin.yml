@@ -1,0 +1,5 @@
+name: IJScoreFormat
+version: 1.0.0
+main: pt.intellijente.scoreformat.I
+depend:
+  - MVdWPlaceholderAPI
