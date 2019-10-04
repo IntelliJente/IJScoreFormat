@@ -1,6 +1,0 @@
-name: IJScoreFormat
-version: 1.0.0
-main: pt.intellijente.scoreformat.Main
-depend:
-  - MVdWPlaceholderAPI
-  - FeatherBoard
